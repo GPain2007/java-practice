@@ -64,6 +64,7 @@ public class Account {
     }
     /**
      * Properly named getters and setters are necessary for Jackson ObjectMapper to work. You may use them as well.
+     * @param username2
      * @return username
      */
     public String getUsername() {
