@@ -23,6 +23,8 @@ To compare with my old answer: `git diff main solutions -- <lab folder>`.
 | --- | --- |
 | [Start](01-java-basics/Start) | `Questions.java` |
 | [HelloWorld](01-java-basics/HelloWorld) | `Lab.java` |
+| [MethodParameters](01-java-basics/MethodParameters) | `Lab.java` |
+| [Comparisons](01-java-basics/Comparisons) | `Lab.java` |
 | [FizzBuzz](01-java-basics/FizzBuzz) | `Lab.java` |
 
 ### Collections
